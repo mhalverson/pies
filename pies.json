@@ -1,0 +1,100 @@
+{
+"March": [
+	["Samoa", 66, "2018-11-10"],
+	["Pineapple", 69, "2016-03-12"],
+	["Samantha Bee's Salty Caramel", 70, "2016-02-28"],
+	["Lemon Cream", 72, "2018-07-17"],
+	["Sesame-Honey", 73, "2019-03-30"],
+	["Chocolate-Lavender Teatime", 74, "2016-03-06"]],
+"April": [
+	["Rhubarb Frangipane", 78, "2019-02-08"],
+	["Chai Chess", 80, "2016-04-23"],
+	["Avocado Cream", 82, "2016-04-01"],
+	["Shoo-Fly", 84, "2016-04-05"],
+	["Smoked Almond", 87, "2018-12-29"]
+	],
+"May": [
+	["Buttermilk Chess", 90, "2018-06-05"],
+	["Strawberry-Rhubarb", 91, "2018-10-24"],
+	["Toasted Coconut Cream", 92, "2016-03-13"],
+	["Mint Julep Cream", 94, "2016-05-18"],
+	["Irish Car Bomb Cream", 97, "2016-05-06"],
+	["Nutella", 98, "2016-05-04"]
+	],
+"June": [
+	["Strawberry-Basil", 102, "2016-04-29"],
+	["Rocky Road", 104, "2019-03-23"],
+	["Blueberry-Nectarine", 105, "2016-06-24"],
+	["Hawaiian Delight", 106, "2019-02-23"],
+	["Strawberry Shortcake", 108, "2019-01-28"],
+	["Melopita (Greek Honey & Cheese)", 110, "2016-07-17"]
+	],
+"July": [
+	["Banana Split Ice Cream", 114, "2016-09-17"],
+	["Licoricious", 117, ""],
+	["Berry Medley", 118, "2018-06-26"],
+	["Raspberry Vinegar Tart", 120, "2018-10-11"],
+	["Grasshopper", 122, "2016-07-21"],
+	["Sour Cherry", 124, "2016-09-11"],
+	["Green Tomato", 125, "2019-04-03"]
+	],
+"August": [
+	["Trifecta (Chocolate-Peanut Butter-Pretzel)", 128, "2018-12-15"],
+	["S'mores", 130, "2016-09-24"],
+	["Banoffee", 136, "2016-10-04"],
+	["Watermelon Cream", 137, "2019-02-17"],
+	["Root Beer Float", 138, "2019-04-11"],
+	["Ginger-Peach", 139, "2016-09-03"],
+	["Sugar Plum", 140, "2019-02-03"]
+	],
+"September": [
+	["Candy Apple", 144, ""],
+	["Butterscotch Cream", 147, "2016-10-01"],
+	["Perfect Manhattan", 148, "2018-11-13"],
+	["Spiced Fig", 150, "2016-11-06"],
+	["Persimmon", 152, ""],
+	["Honey-Pear", 153, "2016-10-26"],
+	["Concord Grape", 154, "2019-04-26"]
+	],
+"October": [
+	["Apple-Cheddar", 158, "2018-07-10"],
+	["Apple-Walnut Pandowdy", 159, "2019-01-26"],
+	["Mocha Black-Bottom", 160, "2016-12-08"],
+	["Buttercrunch", 162, "2018-06-21"],
+	["Peanut-Caramel-Apple", 164, "2018-06-25"],
+	["West Virginia Skillet", 165, "2016-11-16"],
+	["Creamsicle Chiffon", 166, "2019-04-21"]
+	],
+"November": [
+	["Bourbon-Ginger-Pecan", 170, "2018-07-17"],
+	["Pumpkin Spice", 172, ""],
+	["You-Can't-Believe-It's-Vegan Chocolate-Coconut Cream", 174, ""],
+	["Cranberry Dream", 176, "2017-11-24"],
+	["Apple-Cranberry", 178, "2019-01-13"],
+	["Sweet Potato", 179, "2019-03-09"]
+	],
+"December": [
+	["Key Lime", 182, "2018-12-15"],
+	["Salty Dog Chess", 183, ""],
+	["Mincemeat", 184, ""],
+	["Chocolate Chestnut", 186, "2018-12-29"],
+	["Eggnog Cream", 188, "2018-12-24"]
+	],
+"January": [
+	["Jay's Apple Cider Cream", 192, "2016-01-13"],
+	["Mexican Chocolate", 194, "2016-01-07"],
+	["Oatmeal Molasses", 196, "2019-01-16"],
+	["Not-Quite-Kulfi", 197, ""],
+	["Gypsy", 198, ""],
+	["PB&J", 199, ""],
+	["Lemon-Lime Meringue", 200, "2016-01-24"]
+	],
+"February": [
+	["Shaker Citrus", 204, "2016-02-06"],
+	["Margarita", 207, "2016-01-31"],
+	["Elvis", 208, "2018-07-10"],
+	["Hamantasch Galette", 212, ""],
+	["Carrot-Ginger Cream", 215, "2016-02-14"],
+	["Malted Chess", 216, "2019-03-17"]
+	]
+}
