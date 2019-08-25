@@ -28,7 +28,6 @@ def step2_pies_to_make():
         print('    {} ({})'.format(p, m))
 
 # Pies to photograph
-# TODO - photographs for the remaining (and convert them to JPG)
 def shortname(pie):
     '''canonically shorten the pie name from the JSON data
     and also directory names on the file system'''
@@ -66,7 +65,6 @@ def step3_pies_to_photograph():
         print('    {} {}'.format(p, date))
 
 # Generate photo collage
-# TODO - generate it using arbitrary photos -- maybe in order of when the pies were made, with Alison selfie in the middle
 def square(image):
     (w, h) = image.size
     if w == h:
@@ -114,6 +112,7 @@ def create_collage(cols, rows, thumbnail_pixels, images, center, filename="colla
     collage.save(filename)
 
 def step4_collage():
+    # photo_per_pie = [os.path.join(PHOTO_DIR, 'book.jpg')]
     photo_per_pie = []
     bonus_photos = []
     for p, date in pies_with_photos:
@@ -128,8 +127,8 @@ def step4_collage():
             photo_per_pie.append(os.path.join(dir_, f1))
             bonus_photos.append(os.path.join(dir_, f2))
     
-    print(len(photo_per_pie))
-    print(len(bonus_photos))
+    print('One photo from each photographed pie: {}'.format(len(photo_per_pie)))
+    print('Bonus photos to fill the rest of the collage (if needed): {}'.format(len(bonus_photos)))
     
     selfie = os.path.join(PHOTO_DIR, 'allison selfie.jpg')
     create_collage(9, 9, 256, photo_per_pie + bonus_photos, selfie)

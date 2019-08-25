@@ -31,7 +31,7 @@
 	],
 "July": [
 	["Banana Split Ice Cream", 114, "2016-09-17"],
-	["Licoricious", 117, ""],
+	["Licoricious", 117, "2019-06-01"],
 	["Berry Medley", 118, "2018-06-26"],
 	["Raspberry Vinegar Tart", 120, "2018-10-11"],
 	["Grasshopper", 122, "2016-07-21"],
@@ -48,11 +48,11 @@
 	["Sugar Plum", 140, "2019-02-03"]
 	],
 "September": [
-	["Candy Apple", 144, ""],
+	["Candy Apple", 144, "2019-05-12"],
 	["Butterscotch Cream", 147, "2016-10-01"],
 	["Perfect Manhattan", 148, "2018-11-13"],
 	["Spiced Fig", 150, "2016-11-06"],
-	["Persimmon", 152, ""],
+	["Persimmon", 152, "2019-06-21"],
 	["Honey-Pear", 153, "2016-10-26"],
 	["Concord Grape", 154, "2019-04-26"]
 	],
@@ -67,16 +67,16 @@
 	],
 "November": [
 	["Bourbon-Ginger-Pecan", 170, "2018-07-17"],
-	["Pumpkin Spice", 172, ""],
-	["You-Can't-Believe-It's-Vegan Chocolate-Coconut Cream", 174, ""],
+	["Pumpkin Spice", 172, "2019-05-14"],
+	["You-Can't-Believe-It's-Vegan Chocolate-Coconut Cream", 174, "2019-07-28"],
 	["Cranberry Dream", 176, "2017-11-24"],
 	["Apple-Cranberry", 178, "2019-01-13"],
 	["Sweet Potato", 179, "2019-03-09"]
 	],
 "December": [
 	["Key Lime", 182, "2018-12-15"],
-	["Salty Dog Chess", 183, ""],
-	["Mincemeat", 184, ""],
+	["Salty Dog Chess", 183, "2019-07-10"],
+	["Mincemeat", 184, "2019-05-01"],
 	["Chocolate Chestnut", 186, "2018-12-29"],
 	["Eggnog Cream", 188, "2018-12-24"]
 	],
@@ -84,16 +84,16 @@
 	["Jay's Apple Cider Cream", 192, "2016-01-13"],
 	["Mexican Chocolate", 194, "2016-01-07"],
 	["Oatmeal Molasses", 196, "2019-01-16"],
-	["Not-Quite-Kulfi", 197, ""],
-	["Gypsy", 198, ""],
-	["PB&J", 199, ""],
+	["Not-Quite-Kulfi", 197, "2019-08-05"],
+	["Gypsy", 198, "2019-08-24"],
+	["PB&J", 199, "2019-07-03"],
 	["Lemon-Lime Meringue", 200, "2016-01-24"]
 	],
 "February": [
 	["Shaker Citrus", 204, "2016-02-06"],
 	["Margarita", 207, "2016-01-31"],
 	["Elvis", 208, "2018-07-10"],
-	["Hamantasch Galette", 212, ""],
+	["Hamantasch Galette", 212, "2019-08-15"],
 	["Carrot-Ginger Cream", 215, "2016-02-14"],
 	["Malted Chess", 216, "2019-03-17"]
 	]
